@@ -1,8 +1,8 @@
 # Magento 2 Scroll To Top Extension
 
-[Magento 2 Scroll To Top](https://www.ulmod.com/magento-2-scroll-to-top-extension.html)  is a Magento 2 extension that allows you to add "Scroll To Top" link at your site allowing your users to scroll up your pages from the bottom.
+[Magento 2 Scroll To Top](https://www.ulmod.com/magento-2-scroll-to-top-extension.html)  is a Magento 2 extension that allows you to add "Scroll To Top" button at your site , allowing users to scroll up your pages from the bottom.
 
-With Magento 2 Scroll To Top, you can display the "Back To Top" button at the left or right side of your pages, and improve the user experience of your site.
+With Magento 2 Scroll To Top, you can display the "Scroll To Top" button at the left or right side of your pages, and improve the user experience of your site.
 
 <a href="https://www.ulmod.com/magento-2-scroll-to-top-extension.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
